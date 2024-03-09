@@ -1,4 +1,2 @@
-console.log("I am Saad Bashir");
-let num:number = 5;
-num = 55;
-console.log(num);
+let a:string = "Eric";
+console.log("Hello " + a + ", would you like to learn some python today?");
